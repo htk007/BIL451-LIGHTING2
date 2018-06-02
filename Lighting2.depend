@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1449503519 source:/home/limon/teaching/cg/code/Lighting2/main.cpp
+	<string>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"Shader.h"
+	"Camera.h"
+	"Model.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<SOIL/SOIL.h>
+
+1447405866 /home/limon/teaching/cg/code/Lighting2/Shader.h
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glew.h>
+
+1449502138 /home/limon/teaching/cg/code/Lighting2/Camera.h
+	<vector>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+
+1449148984 /home/limon/teaching/cg/code/Lighting2/Model.h
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<SOIL/SOIL.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"Mesh.h"
+
+1448717964 /home/limon/teaching/cg/code/Lighting2/Mesh.h
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<vector>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+
+1451130389 source:/home/hasan/Masaüstü/BIL451_LIGHTING_2/main.cpp
+	<string>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"Shader.h"
+	"Camera.h"
+	"Model.h"
+	"Light.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<SOIL/SOIL.h>
+
+1447405866 /home/hasan/Masaüstü/BIL451_LIGHTING_2/Shader.h
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glew.h>
+
+1449502138 /home/hasan/Masaüstü/BIL451_LIGHTING_2/Camera.h
+	<vector>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+
+1449148984 /home/hasan/Masaüstü/BIL451_LIGHTING_2/Model.h
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<SOIL/SOIL.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"Mesh.h"
+
+1448717964 /home/hasan/Masaüstü/BIL451_LIGHTING_2/Mesh.h
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<vector>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+
+1451057505 /home/hasan/Masaüstü/BIL451_LIGHTING_2/Light.h
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
